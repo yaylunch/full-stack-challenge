@@ -6,8 +6,8 @@ This repo contains a simple todo list app featuring a [Vue.js](https://vuejs.org
 
 ### Prerequisites
 
-Composer: [https://getcomposer.org/](https://getcomposer.org/)
-MySQL: [https://www.mysql.com/](https://www.mysql.com/)
+- Composer: [https://getcomposer.org/](https://getcomposer.org/)
+- MySQL: [https://www.mysql.com/](https://www.mysql.com/)
 
 ### Installation
 
