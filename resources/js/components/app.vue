@@ -1,6 +1,6 @@
 <template>
     <div class="container w-100 m-auto text-center mt-3">
-        <h1 class="text-danger">Laravel vue todo list</h1>
+        <h1 class="text-primary">Yay Lunch Todo</h1>
         <add-item-form v-on:reloadlist="getItems()" />
         <list-view
             :items="items"
@@ -19,7 +19,6 @@ export default {
         addItemForm,
         listView
     },
-
     data: function() {
         return {
             items: []
