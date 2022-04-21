@@ -16,6 +16,8 @@ Good luck and say Yay!
 
 This repo contains a simple todo list app featuring a [Vue.js](https://vuejs.org/) frontend and a [Laravel](https://laravel.com/) backend api.
 
+![challenge](https://user-images.githubusercontent.com/35325251/164551883-c4075023-fc69-4b5b-8d2e-2fc39b269249.png)
+
 ## The challenge
 
 Your challenge is to make an improvement to the todo application. Any improvement will do.
