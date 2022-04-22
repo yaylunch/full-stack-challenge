@@ -27,7 +27,6 @@ Here are some example ideas. Feel free to use one, or come up with your own!
 - Enable tagging to categorize items
 - Move completed items below incomplete items
 - Add "details" to items
-- Introduce subitems in a tree structure
 - Improve the layout and design
 - Provide the ability to add colors to items
 - Make it possible to "star" priority items
